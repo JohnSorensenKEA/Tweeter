@@ -1,6 +1,0 @@
-com\example\demo\DemoApplication.class
-com\example\demo\models\Tweet.class
-com\example\demo\models\Comment.class
-com\example\demo\controllers\Test.class
-com\example\demo\repositories\Test.class
-com\example\demo\services\Test.class
